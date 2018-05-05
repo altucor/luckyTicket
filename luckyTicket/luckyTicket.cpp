@@ -115,6 +115,5 @@ int main(int argc, char *argv[])
 
 	std::cout << fixStr(std::to_string(input));
 	find(input, BACKWARDS);
-	system("pause");
     return 0;
 }
